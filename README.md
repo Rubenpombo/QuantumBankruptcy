@@ -5,7 +5,7 @@
 In this project, I applied quantum computing techniques on a company bankruptcy prediction problem, leveraging a CQ (classical-quantum) approach. I explored various quantum algorithms, including Quantum Support Vector Algorithms (QSVC), Quantum Neural Netwotks (QNNs) and Hybrid QNNs. The project also experiments with different encoding methods and dimensionality reduction techniques to enhance prediction accuracy.
 
 ### 🔍 Dataset
-- **Source:** [Company Bankruptcy Prediction Dataset]([https://www.kaggle.com/](https://www.kaggle.com/datasets/fedesoriano/company-bankruptcy-prediction))  
+- **Source:** [Company Bankruptcy Prediction Dataset](https://www.kaggle.com/datasets/fedesoriano/company-bankruptcy-prediction)
 - **Features:** 95 atributes on financial ratios and company metrics  
 - **Target:** Binary classification (bankruptcy: yes/no)
 
