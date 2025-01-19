@@ -39,14 +39,6 @@ In this project, I applied quantum computing techniques on a company bankruptcy 
 
 ---
 
-## 🔍 Further Research
-
-- Investigate **Quantum Convolutional Neural Networks (QCNNs)** for handling barren plateaus.  
-- Experiment with **alternative quantum encoding techniques.**  
-- Optimize **hyperparameters** for both classical and quantum algorithms.
-
----
-
 ## 📚 References
 1. Mancilla, J., Pere, C. (2022). *A Preprocessing Perspective for Quantum Machine Learning Classification Advantage in Finance*. Entropy.  
 2. Yu, K. et al. (2023). *Quantum dimensionality reduction by linear discriminant analysis*. Physica A.  
@@ -57,7 +49,7 @@ In this project, I applied quantum computing techniques on a company bankruptcy 
 
 ---  
 
-## 🛠️ Future Work
+## 🔍 Future Work
 - Experiment with Quantum Convolutional Neural Networks (QCNNs) to potentially avoid barren plateaus.
 - Explore other encoding techniques and quantum algorithms.
 - Optimize hyperparameters for enhanced prediction accuracy.
