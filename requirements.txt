@@ -1,0 +1,12 @@
+kagglehub==0.3.6
+scikit-learn==1.2.2
+pennylane==0.39.0
+tensorflow==2.15
+silence-tensorflow
+pandas
+matplotlib
+seaborn
+numpy
+qiskit
+qiskit-ibm-runtime
+pennylane-qiskit
